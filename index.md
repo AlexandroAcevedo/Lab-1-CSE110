@@ -15,7 +15,10 @@ You should read this before continuing![README](README.md)
 [Hobbies/Interests](hobbies-interests)
 
 
+[Favorite Foods](favorite-foods)
 
+
+[Goals For This Class](goals-for-this-class)
 
 
 ## My Progamming Story 
