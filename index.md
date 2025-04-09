@@ -9,7 +9,7 @@ You should read this before continuing![README](README.md)
 
 
 ## Table Of Contents
-[My Coding Origin Story](#my-programming-story)
+[My Programming Story](#my-programming-story)
 
 
 [Hobbies/Interests](#hobbies-interests)
@@ -21,7 +21,7 @@ You should read this before continuing![README](README.md)
 [Goals For This Class](#goals-for-this-class)
 
 
-## My Progamming Story 
+## My Programming Story 
 To begin I'd like to show my first ever snippet of code I've wrote in Python. 
 
 
