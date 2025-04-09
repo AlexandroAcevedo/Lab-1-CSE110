@@ -9,16 +9,16 @@ You should read this before continuing![README](README.md)
 
 
 ## Table Of Contents
-[My Coding Origin Story](my-programming-story)
+[My Coding Origin Story](#my-programming-story)
 
 
-[Hobbies/Interests](hobbies-interests)
+[Hobbies/Interests](#hobbies-interests)
 
 
-[Favorite Foods](favorite-foods)
+[Favorite Foods](#favorite-foods)
 
 
-[Goals For This Class](goals-for-this-class)
+[Goals For This Class](#goals-for-this-class)
 
 
 ## My Progamming Story 
